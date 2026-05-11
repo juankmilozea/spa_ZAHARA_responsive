@@ -1,0 +1,1 @@
+# spa_ZAHARA_responsive
