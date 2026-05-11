@@ -1,0 +1,68 @@
+#navbar .logo{
+    float: none;
+    text-align: center;
+}
+
+
+#navbar ul, #navbar ul li{
+    float: none;
+
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: #e0e0e0;
+}
+
+
+/*showcase*/
+
+
+#showcase {
+    height: 100%;
+}
+
+
+#showcase .showcase-content{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+
+/*home indo*/
+
+#home-info .info-img {
+    display: none;
+}
+
+
+
+#home-info .info-content{
+    float: none;
+    width: 100%;
+
+}
+
+
+.box{
+    float: none;
+    width: 100%;
+}
+
+
+
+
+/*Empresa*/
+
+#about-info .info-left,
+#about-info .info-right{
+    float: none;
+    width: 100%;
+}
+
+.l-header{
+    text-align: center;
+}   
+
+
+
